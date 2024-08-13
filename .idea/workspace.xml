@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a5baf46-a882-49a5-b301-42e198db04ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/js/pages/addSensor.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pages/addSensor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/pages/homepage.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pages/homepage.js" afterDir="false" />
-    </list>
+    <list default="true" id="0a5baf46-a882-49a5-b301-42e198db04ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="3165" />
+    <option name="totalTimeSeconds" value="3308" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,7 +55,7 @@
       <updated>1723457178631</updated>
       <workItem from="1723457179651" duration="2171000" />
       <workItem from="1723534901034" duration="1998000" />
-      <workItem from="1723537957785" duration="2728000" />
+      <workItem from="1723537957785" duration="3093000" />
     </task>
     <servers />
   </component>
