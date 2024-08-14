@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a5baf46-a882-49a5-b301-42e198db04ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/js/pages/facadeDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pages/facadeDetails.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/utils/weatherStackAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/utils/weatherStackAPI.js" afterDir="false" />
-    </list>
+    <list default="true" id="0a5baf46-a882-49a5-b301-42e198db04ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="5632" />
+    <option name="totalTimeSeconds" value="5938" />
     <option name="naggedAbout" value="1" />
   </component>
   <component name="Git.Settings">
@@ -60,7 +57,7 @@
       <workItem from="1723457179651" duration="2171000" />
       <workItem from="1723534901034" duration="1998000" />
       <workItem from="1723537957785" duration="5806000" />
-      <workItem from="1723640133981" duration="2236000" />
+      <workItem from="1723640133981" duration="2635000" />
     </task>
     <servers />
   </component>
