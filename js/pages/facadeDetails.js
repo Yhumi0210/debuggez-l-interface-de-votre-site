@@ -23,9 +23,10 @@ const $weatherUVIndex = document.querySelector('.weather-uv-index')
 const $weatherIsDay = document.querySelector('.weather-is-day')
 
 const retrieveSensorData = () => fetch('/data/facade-detail-data.json')
-    .then(res => res.json())
-    .then(data => data.facade)
-    .catch(err => console.log("Oh no", err))
+        .then(res => res.json())
+        .then(data => data.facade)
+        .catch(err => console.log("Oh no", err))
+
 
 
 const fillSensorTable = sensorData => {
@@ -69,10 +70,10 @@ const handleSensorImagesGallery = sensorData => {
 }
 
 
-const main = () => {
-    const sensorData = retrieveSensorData()
+const main = async () => {
+    const sensorData = await retrieveSensorData()
 
-    const weatherForecastData = retrieveWeatherForecastData(sensorData.coordinates, true)
+    const weatherForecastData = await retrieveWeatherForecastData(sensorData.coordinates, false)
 
     fillSensorTable(sensorData)
     handleSensorImagesGallery(sensorData)
